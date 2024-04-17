@@ -6,4 +6,5 @@
 ```
 git clone https://github.com/Coopteh/BurgerKrig.git
 git checkout final_with_json
+composer install
 ```
